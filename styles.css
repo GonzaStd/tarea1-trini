@@ -1,0 +1,11 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+p {
+    color: goldenrod;
+}
